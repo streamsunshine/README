@@ -6,8 +6,7 @@ README
 	
 |Author|果冻虾仁|
 |---|---
-|E-mail|Jelly.K.Wang@qq.com
-
+|Modifier|MaxMattew|
 
 ****
 ## 目录
@@ -143,6 +142,13 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ```
 [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ```
+公式
+------
+markdown支持latex的公式解析功能。latex中的行内公式采用\$公式\$的形式，行间公式可以\$$公式\$$的形式。插入公式可以使用mathtype打好，然后复制latex格式进行插入。例如：
+
+\$a^2\$
+
+$a^2$
 
 链接
 ------
