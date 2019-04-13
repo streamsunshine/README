@@ -150,6 +150,8 @@ github的markdown现在不支持latex的公式解析功能，可以使用MathJax
 ```
 latex中的行内公式采用\$公式\$的形式，行间公式可以\$$公式\$$的形式。插入公式也可以使用mathtype打好，然后复制latex格式进行插入。例如：
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 \$a^2\$
 
 $a^2$
