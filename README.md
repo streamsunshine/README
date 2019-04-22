@@ -118,11 +118,11 @@ ___
     斜体、粗体、删除线可混合使用
 
 #### 段落
-居中
+<center>居中</center>
 ```
 <center>居中</center>
 ```
-左对齐
+<p align="left">左对齐</p>
 ```
 <p align="left">左对齐</p>
 ```
