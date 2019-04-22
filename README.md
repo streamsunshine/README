@@ -119,13 +119,17 @@ ___
 
 #### 段落
 <center>居中</center>
+
 ```
 <center>居中</center>
 ```
+
 <p align="left">左对齐</p>
+
 ```
 <p align="left">左对齐</p>
 ```
+
 图片
 ------
 基本格式：
